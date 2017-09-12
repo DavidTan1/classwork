@@ -20,7 +20,7 @@ public class CodingConvention {
 	public CodingConvention(String name, int descriptionIndex) {
 		//INSTANTIATE VARIABLES NOW:
 		
-		//there are two variables called "name" the local vairiable and the field
+		//there are two variables called "name" the local variable and the field
 		//distinguish between the two using the reserved word "this"(field)
 		this.name = name;
 		//this is a static call to a constant
